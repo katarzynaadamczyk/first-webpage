@@ -1,0 +1,107 @@
+#header-k
+{
+    font-weight: bold;
+    text-align: center;
+
+}
+
+#lead-k
+{
+    font-size: small;
+
+}
+
+
+table
+{
+    width: 100%;
+    text-align: center;
+}
+
+.side
+{
+    width: 25%;
+}
+
+.dropdown-menu
+{
+    font-weight: bold;
+    text-align: center;
+}
+
+footer
+{
+    font-size: small;
+    padding-top: 1%;
+}
+
+.jumbotron
+{
+    background: lightsteelblue;
+    background-size: cover;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+body
+{
+    background-color: lavender;
+}
+
+.d-inline
+{
+    padding-top: 1%;
+    padding-bottom: 0%;
+    margin: 0%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+.side_2
+{
+    width: 25%;
+}
+
+.aboutk
+{
+    font-weight: normal;
+    text-align: justify;
+    padding-top: 2%;
+}
+
+.circulark
+{
+    text-align: center;
+    width: 50%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+h3
+{
+    font-weight: bold;
+}
+
+.europek
+{
+    text-align: justify;
+    font-weight: normal;
+}
+
+.column_e_k
+{
+    width: 50%;
+    padding: 5px;
+}
+
+.row_e_k
+{
+    display: flex;
+}
+
+.d-block_e_k
+{
+    width: 100%;
+    border: 1px solid black;
+}
